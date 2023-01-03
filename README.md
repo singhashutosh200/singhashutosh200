@@ -1,6 +1,6 @@
 <h1> Hi 👋 I am Ashutosh Kumar </h1>
 <br>
-Software Quality Analyst
+<h1> Software Quality Analyst </h1>
 
 <!--
 **singhashutosh200/singhashutosh200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
