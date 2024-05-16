@@ -1,7 +1,7 @@
 <h1> Hi 👋👋 I am Ashutosh Kumar <br>
  Software Quality Analyst (Ex-TCS)</h1> <br>
  
- 5.5 Years of Experience | Manual Testing | Automation Testing | SDLC | STLC | Selenium Webdriver | Python <br>
+ 5.5 Years of Experience | Manual Testing | Automation Testing | SDLC | STLC | Selenium Webdriver |<br> |Python 
  | Git | GitHub | Page Object Model | DOM | JIRA | Regression Testing | API | Postman | Azure | TFS <br>
  
  Professional Quality analyst with 5.5 years of experience in software quality process. Involved in end to end
