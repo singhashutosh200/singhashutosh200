@@ -2,7 +2,7 @@
  Software Quality Analyst (Ex-TCS)</h1> <br>
  
  5.5 Years of Experience | Manual Testing | Automation Testing | SDLC | STLC | Selenium Webdriver |<br> |Python 
- | Git | GitHub | Page Object Model | DOM | JIRA | Regression Testing | API | Postman | Azure | TFS <br>
+ | Git | GitHub | Page Object Model | DOM | JIRA | Regression Testing | API | Postman | Azure | <br>
  
  Professional Quality analyst with 5.5 years of experience in software quality process. Involved in end to end
 testing with a solid understanding of Test Planning, Test Design, Test Execution and Defect Reporting &
