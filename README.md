@@ -6,7 +6,13 @@
  
  Professional Quality analyst with 6.6 years of experience in software quality process. Involved in end to end
 testing with a solid understanding of Test Planning, Test Design, Test Execution and Defect Reporting &
-Tracking. <br> <br>
+Tracking.
+
+Accomplished Senior Quality Analyst with 6+ years of experience in software quality processes, specializing in
+end-to-end testing. Expertly planned, designed, executed tests, and managed defects. Led testing efforts
+for 10+ projects, driving a 30% reduction in defects and enhancing delivery timelines by 20%.
+
+<br> <br>
 🔭 I’m currently working as software Quality Analyst in Procentris India PVT LTD. <br>
 📫 You can reach me at ashutoshkumar.ramp@gmail.com. <br>
 🗣 Languages: Selenium, Python, SQL, English, Hindi and Bengali.
