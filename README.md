@@ -1,5 +1,5 @@
 <h1> Hi 👋👋 I am Ashutosh Kumar <br>
- Software Quality Analyst (Ex-TCSer)</h1> <br>
+ Senior Software Quality Analyst (Ex-TCSer)</h1> <br>
  
  6.10 Years of Experience | Manual Testing | Automation Testing | SDLC | STLC | Selenium Webdriver |<br> |JAVA 
  | Git | GitHub | Page Object Model | DOM | JIRA | Regression Testing | API | Postman | Azure | <br>
