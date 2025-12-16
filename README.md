@@ -4,11 +4,11 @@
  7+ Years of Experience | Manual Testing | Automation Testing | SDLC | STLC | Selenium Webdriver |<br> |JAVA 
  | Git | GitHub | Page Object Model | DOM | JIRA | Regression Testing | API | Postman | Azure | <br>
  
- Professional Quality analyst with 6.6 years of experience in software quality process. Involved in end to end
+ Professional Quality analyst with 7+ years of experience in software quality process. Involved in end to end
 testing with a solid understanding of Test Planning, Test Design, Test Execution and Defect Reporting &
 Tracking.
 
-Accomplished Senior Quality Analyst with 6+ years of experience in software quality processes, specializing in
+Accomplished Senior Quality Analyst with 7+ years of experience in software quality processes, specializing in
 end-to-end testing. Expertly planned, designed, executed tests, and managed defects. Led testing efforts
 for 10+ projects, driving a 30% reduction in defects and enhancing delivery timelines by 20%.
 
