@@ -1,7 +1,7 @@
 <h1> Hi 👋👋 I am Ashutosh Kumar <br>
  Senior Software Quality Analyst (Ex-TCSer)</h1> <br>
 
- # Hi, I'm [Ashutosh Kumar] 👋 👨‍💻 **Full Stack Tester** | 🚀 **Open Source Contributor** | 💻 **Tech Enthusiast**
+ # Hi, I'm [Ashutosh Kumar] 👋 👨‍💻 **Senior Software Quality Analyst (Ex-TCSer)** |👨‍💻 **Full Stack Tester** | 🚀 **Open Source Contributor** | 💻 **Tech Enthusiast**
  7+ Years of Experience | Manual Testing | Automation Testing | SDLC | STLC | Playwright |<br> |Javascript
  | Git | GitHub | Page Object Model | DOM | JIRA | Regression Testing | API | Postman | Azure | <br>
  
