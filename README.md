@@ -23,9 +23,7 @@ for 10+ projects, driving a 30% reduction in defects and enhancing delivery time
 
 ## 📚 I'm Currently Learning:
 - **Playwright** & **Javascript**
-- **AWS Cloud Tester**
-- **Testing with Jest and Cypress**
-- 
+
  ## 🔗 Connect with me:
 - [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/ashutoshkumar-ramp))
 - [Twitter]([https://twitter.com/yourhandle](https://x.com/singhashutosh00))
