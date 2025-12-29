@@ -11,8 +11,8 @@ end-to-end testing. Expertly planned, designed, executed tests, and managed defe
 for 10+ projects, driving a 30% reduction in defects and enhancing delivery timelines by 20%.
 
 ## 🚀 Technologies & Tools:
-- **Languages**: JavaScript, Python, TypeScript
-- **Frameworks**: React, Node.js
+- **Languages**: JavaScript, TypeScript, Playwright
+- **Frameworks**: Node.js
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools**: Docker, GitHub Actions, Jenkins
 - **Cloud**: AWS, Google Cloud
