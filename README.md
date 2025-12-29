@@ -1,4 +1,4 @@
-# Hi, I'm [Ashutosh Kumar] 👋 **Senior Software Quality Analyst (Ex-TCSer)** ||<br> 👨‍💻 **Full Stack Tester** | |<br> 🚀 **Open Source Contributor** ||<br>  💻 **Tech Enthusiast**
+# Hi, I'm [Ashutosh Kumar] |<br> 👋 **Senior Software Quality Analyst (Ex-TCSer)** <br> 👨‍💻 **Full Stack Tester** <br> 🚀 **Open Source Contributor** <br>  💻 **Tech Enthusiast**
  7+ Years of Experience | Manual Testing | Automation Testing | SDLC | STLC | Playwright |<br> |Javascript
  | Git | GitHub | Page Object Model | DOM | JIRA | Regression Testing | API | Postman | Azure | <br>
  
