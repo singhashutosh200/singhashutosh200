@@ -19,7 +19,7 @@ for 10+ projects, driving a 30% reduction in defects and enhancing delivery time
 <br> <br>
 🔭 I’m currently working as Senior Software Quality Analyst in Procentris India PVT LTD. <br>
 📫 You can reach me at ashutoshkumar.ramp@gmail.com. <br>
-🗣 Languages: Selenium, JAVA, SQL, HTML, JSON, English, Hindi and Bengali.
+🗣 Languages: SQL, HTML, JSON
 
 ## 📚 I'm Currently Learning:
 - **Playwright** & **Javascript**
